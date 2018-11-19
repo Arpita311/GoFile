@@ -1,0 +1,2 @@
+# GoFile
+Basic go example
